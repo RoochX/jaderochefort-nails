@@ -1,0 +1,1 @@
+import{u as a,h as s,i as u,j as r,k as h}from"./CdrNeKHt.js";function i(t){const e=t||s();return e.ssrContext?.head||e.runWithContext(()=>{if(u()){const n=r(h);if(!n)throw new Error("[nuxt] [unhead] Missing Unhead instance.");return n}})}function d(t,e={}){const n=e.head||i(e.nuxt);return a(t,{head:n,...e})}export{d as u};

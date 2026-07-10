@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jaderochefort.com/jaderochefort-nails/sitemap.xml

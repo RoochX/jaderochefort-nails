@@ -18,7 +18,7 @@ const images = [
 </script>
 
 <template>
-  <section id="galerie" class="py-16 md:py-24 bg-fuchsia-50/40 scroll-mt-16">
+  <section id="galerie" class="py-16 md:py-24 bg-white scroll-mt-16">
     <div class="max-w-6xl mx-auto px-4">
       <div class="text-center mb-12">
         <p class="text-violet-600 font-medium text-sm tracking-wide uppercase mb-2">Galerie</p>

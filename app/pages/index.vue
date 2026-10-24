@@ -2,6 +2,7 @@
   <div>
     <HeroSection />
     <ServicesSection />
+    <TarifsSection />
     <GallerySection />
     <AboutSection />
     <CertificationsSection />

@@ -9,8 +9,7 @@ const beautySalonSchema = {
   name: 'Nailss by Jade',
   description: 'Services de nail art à Drummondville, Québec',
   url: 'https://jaderochefort.com',
-  telephone: '(XXX) XXX-XXXX',
-  email: 'bonjour@jaderochefort.com',
+  email: 'jaderochefort7@gmail.com',
   address: {
     '@type': 'PostalAddress',
     addressLocality: 'Drummondville',

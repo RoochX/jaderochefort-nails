@@ -1,13 +1,5 @@
 <script setup lang="ts">
-const instagramUrl = 'https://www.instagram.com/nailss_by_jade/'
-
-const links = [
-  { label: 'Services', href: '#services' },
-  { label: 'Galerie', href: '#galerie' },
-  { label: 'À propos', href: '#a-propos' },
-  { label: 'FAQ', href: '#faq' },
-  { label: 'Contact', href: '#contact' }
-]
+import { navLinks as links, instagramUrl } from '~/data/site'
 </script>
 
 <template>

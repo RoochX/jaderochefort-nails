@@ -29,7 +29,7 @@ const instagramUrl = "https://www.instagram.com/nailss_by_jade/";
               </div>
               <div class="text-left">
                 <p class="font-medium text-gray-900">Courriel</p>
-                <p class="text-gray-500 text-sm">bonjour@jaderochefort.com</p>
+                <a href="mailto:jaderochefort7@gmail.com" class="text-violet-600 hover:text-violet-700 text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-violet-500 rounded">jaderochefort7@gmail.com</a>
               </div>
             </div>
             <div class="flex items-center gap-4 justify-center">

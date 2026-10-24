@@ -22,7 +22,7 @@ useHead({
             <strong>Jade Rochefort</strong><br />
             Nailss by Jade<br />
             Drummondville, Québec, Canada<br />
-            Courriel&nbsp;: bonjour@jaderochefort.com<br />
+            Courriel&nbsp;: jaderochefort7@gmail.com<br />
             Instagram&nbsp;: @nailss_by_jade
           </p>
         </section>

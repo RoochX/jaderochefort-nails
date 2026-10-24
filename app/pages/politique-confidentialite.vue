@@ -59,7 +59,7 @@ useHead({
         <section>
           <h2 class="font-display text-xl font-semibold text-gray-900 mb-3">Contact</h2>
           <p class="text-gray-600 leading-relaxed">
-            Pour toute question concernant cette politique de confidentialité, tu peux me joindre par courriel à bonjour@jaderochefort.com ou sur Instagram à @nailss_by_jade.
+            Pour toute question concernant cette politique de confidentialité, tu peux me joindre par courriel à jaderochefort7@gmail.com ou sur Instagram à @nailss_by_jade.
           </p>
         </section>
       </div>

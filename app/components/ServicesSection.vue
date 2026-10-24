@@ -2,7 +2,7 @@
 const services = [
   {
     title: 'Ongles en gel',
-    description: "Pose et remplissage d'ongles en gel pour un rendu naturel et durable. Résultat impeccable pendant 3 \u00e0 4 semaines.",
+    description: 'Pose américaine en gel (gel-x) ou builder gel sur ongle naturel, pour un rendu naturel et durable. Remplissage aux 3 semaines.',
     icon: 'mdi:sparkles'
   },
   {
@@ -12,7 +12,7 @@ const services = [
   },
   {
     title: 'French manucure',
-    description: 'La French manucure classique ou revisité, élégante et intemporelle. Parfaite pour toutes les occasions.',
+    description: 'La french classique ou revisitée, élégante et intemporelle. Parfaite pour toutes les occasions.',
     icon: 'mdi:heart-outline'
   },
   {

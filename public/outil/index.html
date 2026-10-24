@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="fr-CA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="robots" content="noindex, nofollow">
+  <meta name="theme-color" content="#6d28d9">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Mes visuels">
+  <title>Mes visuels · Nailss by Jade</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icone-192.png" type="image/png">
+  <link rel="apple-touch-icon" href="icone-180.png">
+  <link rel="stylesheet" href="gabarits.css">
+  <link rel="stylesheet" href="app.css">
+  <script src="vendor/html-to-image.js" defer></script>
+  <script src="donnees-par-defaut.js" defer></script>
+  <script src="gabarits.js" defer></script>
+  <script src="stockage.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <aside class="editeur">
+    <header class="editeur-tete">
+      <h1>Mes visuels</h1>
+      <p id="statut" class="statut" role="status">Chargement…</p>
+    </header>
+    <nav class="onglets" role="tablist" aria-label="Sections">
+      <button role="tab" data-onglet="tarifs">Tarifs</button>
+      <button role="tab" data-onglet="niveaux">Niveaux</button>
+      <button role="tab" data-onglet="politiques">Bon à savoir</button>
+      <button role="tab" data-onglet="affiches">Affiches</button>
+      <button role="tab" data-onglet="imprimable">Imprimable</button>
+      <button role="tab" data-onglet="general">Général</button>
+    </nav>
+    <form id="formulaire" class="formulaire" autocomplete="off"></form>
+  </aside>
+
+  <main class="apercu">
+    <div class="barre-outils">
+      <p id="titre-apercu" class="titre-apercu"></p>
+      <div class="actions">
+        <button id="btn-image" class="btn principal" type="button">Enregistrer l’image</button>
+        <button id="btn-carrousel" class="btn" type="button">Carrousel des tarifs</button>
+        <button id="btn-pdf" class="btn" type="button">PDF à imprimer</button>
+      </div>
+    </div>
+    <div id="scene" class="scene"><div id="cadre" class="cadre"></div></div>
+  </main>
+</body>
+</html>

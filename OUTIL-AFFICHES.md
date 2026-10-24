@@ -2,9 +2,10 @@
 
 Page web pour que Jade modifie elle-même sa liste de prix et ses affiches, sur son téléphone ou son ordinateur, sans toucher au code.
 
-- Adresse : `https://roochx.github.io/jaderochefort-nails/outil/` (plus tard `https://jaderochefort.com/outil/`).
-- Code : `public/outil/`. Nuxt copie ce dossier tel quel dans le site ; rien à compiler.
-- La page est exclue des moteurs de recherche (`noindex` et `robots.txt`) et aucun lien du site n’y mène.
+- Code : `public/mv-f2q1vqiom6ul/`. Nuxt copie ce dossier tel quel dans le site ; rien à compiler.
+- Adresse privée : le nom du dossier sert d’adresse. Ne pas l’écrire ailleurs (site, réseaux sociaux, `robots.txt`, plan de site).
+- La page demande aux moteurs de recherche de ne pas l’indexer (`noindex`), n’envoie pas d’en-tête Referer et aucun lien du site n’y mène.
+- Limite : le dépôt GitHub est public, donc le nom du dossier y est visible. Pour une adresse réellement privée, rendre le dépôt privé ou héberger l’outil ailleurs avec une connexion.
 
 ## Fonctionnement
 
